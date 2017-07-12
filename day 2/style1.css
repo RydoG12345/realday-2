@@ -1,0 +1,15 @@
+section{
+  width: 1600px;
+  height: 300px;
+  border: 6px solid black;
+  padding: 6px;
+  background-color: white;
+}
+
+div{
+  width: 325px;
+  height: 250px;
+  margin: 28px;
+  background-color: lightgray;
+  float: left;
+}
